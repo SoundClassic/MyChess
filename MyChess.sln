@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyChess", "MyChess\MyChess.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessAPI", "ChessAPI\ChessAPI.csproj", "{EAB040B8-B98F-4798-A5F0-D7BA412DBA3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessForm", "ChessForm\ChessForm.csproj", "{7413A4BE-95C9-49FE-AE77-5F1775B438AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EAB040B8-B98F-4798-A5F0-D7BA412DBA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAB040B8-B98F-4798-A5F0-D7BA412DBA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAB040B8-B98F-4798-A5F0-D7BA412DBA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7413A4BE-95C9-49FE-AE77-5F1775B438AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7413A4BE-95C9-49FE-AE77-5F1775B438AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7413A4BE-95C9-49FE-AE77-5F1775B438AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7413A4BE-95C9-49FE-AE77-5F1775B438AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
